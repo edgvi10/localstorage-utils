@@ -1,0 +1,23 @@
+{
+  "name": "localstorage-utils",
+  "version": "1.0.3",
+  "description": "A LocalStorage utils with automatic JSON parsing and get/set/delete multiple data stored.",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgvi10/localstorage-utils.git"
+  },
+  "keywords": [
+    "localstorage",
+    "utils",
+    "browser",
+    "storage"
+  ],
+  "author": "edgvi10",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edgvi10/localstorage-utils/issues"
+  },
+  "homepage": "https://github.com/edgvi10/localstorage-utils#readme"
+}

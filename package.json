@@ -6,7 +6,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edgvi10/localstorage-utils.git"
+    "url": "git+https://github.com/edgvi10/localstorage-api-utils.git"
   },
   "keywords": [
     "localstorage",
@@ -17,7 +17,7 @@
   "author": "edgvi10",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/edgvi10/localstorage-utils/issues"
+    "url": "https://github.com/edgvi10/localstorage-api-utils/issues"
   },
-  "homepage": "https://github.com/edgvi10/localstorage-utils#readme"
+  "homepage": "https://github.com/edgvi10/localstorage-api-utils#readme"
 }

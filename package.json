@@ -1,5 +1,5 @@
 {
-  "name": "localstorage-utils",
+  "name": "localstorage-api-utils",
   "version": "1.0.3",
   "description": "A LocalStorage utils with automatic JSON parsing and get/set/delete multiple data stored.",
   "main": "index.js",
